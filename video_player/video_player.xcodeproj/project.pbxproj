@@ -16,6 +16,7 @@
 		9E8D512F297E5F0800541EF7 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8D512E297E5F0800541EF7 /* video_playerTests.swift */; };
 		9E8D5139297E5F0800541EF7 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8D5138297E5F0800541EF7 /* video_playerUITests.swift */; };
 		9E8D513B297E5F0800541EF7 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8D513A297E5F0800541EF7 /* video_playerUITestsLaunchTests.swift */; };
+		9E8D5148297E635400541EF7 /* testvideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9E8D5147297E635400541EF7 /* testvideo.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9E8D5134297E5F0800541EF7 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E8D5138297E5F0800541EF7 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		9E8D513A297E5F0800541EF7 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9E8D5147297E635400541EF7 /* testvideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = testvideo.mp4; path = ../../../../../Desktop/testvideo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9E8D511B297E5F0700541EF7 /* ViewController.swift */,
 				9E8D511D297E5F0700541EF7 /* Main.storyboard */,
 				9E8D5120297E5F0800541EF7 /* Assets.xcassets */,
+				9E8D5147297E635400541EF7 /* testvideo.mp4 */,
 				9E8D5122297E5F0800541EF7 /* LaunchScreen.storyboard */,
 				9E8D5125297E5F0800541EF7 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				9E8D5124297E5F0800541EF7 /* LaunchScreen.storyboard in Resources */,
 				9E8D5121297E5F0800541EF7 /* Assets.xcassets in Resources */,
 				9E8D511F297E5F0700541EF7 /* Main.storyboard in Resources */,
+				9E8D5148297E635400541EF7 /* testvideo.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
